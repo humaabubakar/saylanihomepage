@@ -1,0 +1,13 @@
+.text-white{
+    color: white;
+}
+.bg-red{
+    background-color: tomato;
+}
+.marquee{
+    background-color: rgb(75, 151, 226);
+}
+h2.heading{
+    text-align: center;
+    color: dodgerblue;
+}
